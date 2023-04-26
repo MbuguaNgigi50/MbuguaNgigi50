@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mbugua Ngigi</h1>
-<h3 align="center">A wanna-be Indie Hacker and aspiring Full Stack Developer. Currently open to new opportunities and collaborating in new &/ open-source projects.</h3>
+<h3 align="center">A wanna-be Indie Hacker and Full Stack Developer. Currently open to new opportunities and collaborating in new &/ open-source projects.</h3>
 
 - 🌱 I’m currently learning **Next.JS and TypeScript**
 
