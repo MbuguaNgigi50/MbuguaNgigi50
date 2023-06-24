@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Next.JS and TypeScript**
 
-- 📫 How to reach me **dmbuguangigi@gmail.com**
-
 <p align="left">
 </p>
 
